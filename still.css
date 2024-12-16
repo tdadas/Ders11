@@ -1,0 +1,24 @@
+body{background-color: beige;}
+a{text-decoration: none;
+color: black;
+font-size: 3vh;
+border: 1px solid navy;
+width: 12vw;
+height: 5vh;
+display: inline-block;
+text-align: center;
+}
+
+.kapsa{display: flex;flex-wrap: wrap;
+justify-content: space-between;
+}
+
+a:hover{background-color: chocolate;}/*mouse üzerine gelince renk değiştirir*/
+.k1{width: 25vw;
+padding: 10px;
+margin-bottom: 10px;
+text-align:center;
+border: 1px dotted #456875;
+}
+.k1 img{width: 20vw;
+height: 9vh;}
